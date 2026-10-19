@@ -1,0 +1,23 @@
+[theme]
+base = "light"
+primaryColor = "#2a78d6"
+backgroundColor = "#f6f6f3"
+secondaryBackgroundColor = "#f1f0ec"
+textColor = "#1b1b1a"
+font = "Inter:https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap, sans-serif"
+headingFontWeights = [700, 600, 600, 600, 600, 600]
+baseRadius = "0.75rem"
+borderColor = "#e3e2dc"
+showWidgetBorder = true
+metricValueFontSize = "1.45rem"
+metricValueFontWeight = 600
+dataframeHeaderBackgroundColor = "#f6f6f3"
+
+[client]
+toolbarMode = "minimal"
+
+[server]
+headless = true
+
+[browser]
+gatherUsageStats = false
